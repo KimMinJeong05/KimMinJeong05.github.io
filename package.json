@@ -1,9 +1,9 @@
 {
-  "name": "zoomkoding.com",
+  "name": "julie.com",
   "private": false,
   "description": "A neat blog theme for developers",
   "version": "2.0.0",
-  "author": "zoomkoding <zoomkoding@gmail.com>",
+  "author": "julie <minjeong.kim512@gmail.com>",
   "dependencies": {
     "@mui/icons-material": "^5.1.0",
     "@mui/material": "^5.1.0",
