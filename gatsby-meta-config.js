@@ -141,7 +141,7 @@ module.exports = {
         description:
           '건강에 대한 관심도가 증가하면서, 우리가 먹는 식품에서 어떤 원재료가 내가 관심있는 질병에 안 좋은 영향을 끼치는지 쉽게 알고싶었습니다. 따라서 간편하게 카메라를 이용해 식품에서 어떤 원재로가 어떤 질병에 안 좋은 영향을 끼치는지 알려주는 어플인 Eatfo를 개발하게 되었습니다.\
           식품의 뒷부분에 있는 원재료 명을 카메라로 찍으면 그 원재료들이 어떤 질병에 영향을 주는 지 쉽게 알 수 있도록 도와주는 어플입니다.',
-        techStack: ['Android(Java)', 'OpenCV', 'AWS EC2', 'Flask', 'SQLite', 'Symspell 오타 교정 알고리즘', 'Google Cloud Vision OCR API'],
+        techStack: ['Android(Java)', 'Flask', 'AWS EC2'],
         thumbnailUrl: 'eatfo.png',
         links: {
           // post: '/gatsby-starter-zoomkoding-introduction',
@@ -154,7 +154,7 @@ module.exports = {
         description:
           '코로나로 인해 모든게 비대면으로 전환되면서 사람들과의 소통이 줄어들었습니다. 따라서 우리가 본 컨텐츠를 바탕으로 소통할 거리를 늘려보자 라는 목표로 친구들과 영화에 관한 이야기를 나눌 수 있는 어플인 "Movie-it"을 개발하게 되었습니다.\
           영화를 보고 평점을 매기고 친구들이 봤을 때 평점을 어떻게 줄지 예측하면서 친구들과 소통할 수 있는 어플입니다.',
-        techStack: ['Android(Kotlin)', 'Django REST Framework', '네이버 API', '영화진흥위원회 제공 영화정보 Open API'],
+        techStack: ['Android(Kotlin)', 'Django REST Framework'],
         thumbnailUrl: 'movieit.png',
         links: {
           // post: '/gatsby-starter-zoomkoding-introduction',

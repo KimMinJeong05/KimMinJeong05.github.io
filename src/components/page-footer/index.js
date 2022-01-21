@@ -10,7 +10,7 @@ function PageFooter({ author, githubUrl }) {
         <a href={githubUrl}>{author}</a>
         &nbsp;powered by
         <a href="https://github.com/KimMinJeong05/KimMinJeong05.github.io">
-          &nbsp;julie-gatsby-blog
+          &nbsp;KimMinJeong05.github.io
         </a>
       </p>
     </footer>
