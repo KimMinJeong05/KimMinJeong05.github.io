@@ -1,6 +1,6 @@
 ---
 emoji: 😈
-title: 그리디 알고리즘 이론
+title:  Unity 설치 에러
 date: '2022-02-06 22:00:00'
 author: Julie
 tags: Unity 유니티 Error 에러 설치
