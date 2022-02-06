@@ -46,9 +46,7 @@ module.exports = {
         date: '2022.01 ~',
         activity: '개인 개발 블로그',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
           github: 'https://github.com/KimMinJeong05/KimMinJeong05.github.io',
-          demo: 'https://www.zoomkoding.com',
         },
       },
       {
