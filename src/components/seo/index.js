@@ -56,10 +56,10 @@ function Seo({ description, title }) {
           property: `og:type`,
           content: `website`,
         },
-        // {
-        //   name: 'google-site-verification',
-        //   content: '해당 값'
-        // },
+        {
+          name: 'google-site-verification',
+          content: '<meta name="google-site-verification" content="iFlMqtBm-vHvtRd8zRZLnBGFP7123VsWvFjibhHoz28" />'
+        },
       ]}
     />
   );
