@@ -31,17 +31,17 @@ module.exports = {
           'branch-deploy': {
             policy: [{ userAgent: '*', disallow: ['/'] }],
             sitemap: `https://kimminjeong05.github.io/sitemap.xml`,
-            host: `https://kimminjeong05.github.io/`,
+            host: `https://kimminjeong05.github.io`,
           },
           'deploy': {
             policy: [{ userAgent: '*', disallow: ['/'] }],
             sitemap: `https://kimminjeong05.github.io/sitemap.xml`,
-            host: `https://kimminjeong05.github.io/`,
+            host: `https://kimminjeong05.github.io`,
           },
           'deploy-preview': {
             policy: [{ userAgent: '*', disallow: ['/'] }],
             sitemap: `https://kimminjeong05.github.io/sitemap.xml`,
-            host: `https://kimminjeong05.github.io/`,
+            host: `https://kimminjeong05.github.io`,
           },
         },
       },
