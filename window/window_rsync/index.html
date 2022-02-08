@@ -97,11 +97,10 @@ zstd -d rsync-3.2.3–1-x86_64.pkg.tar.zst
 <ol start="3">
 <li>Git에 rsync 패키지 복사하기</li>
 </ol>
-<p><code class="language-text">C:\Program Files\Git\usr\bin\</code> 경로에 <code class="language-text">rsync-3.2.3–1-x86_64.pkg\usr\bin\</code>에 있는 rsync.exe파일을 복사한다.
+<p><code class="language-text">C:\Program Files\Git\usr\bin\</code> 경로에 <code class="language-text">rsync-3.2.3–1-x86_64.pkg\usr\bin\</code>에 있는 rsync.exe파일을 복사한다.<br>
 4. dependent 패키지 다운로드 및 Git 폴더에 복사하기<br>
 rsync.exe 만 있으면 dependent한 파일이 없어서 실행되지 않는다.<br>
 따라서 아래 2개의 dependent 패키지를 다운로드해서 압축해제 후 <code class="language-text">C:\Program Files\Git\usr\bin\</code>에 복사한다.<br>
-<br/>
 a. <a href="https://packages.msys2.org/package/libzstd?repo=msys&#x26;variant=x86_64">libzst 패키지</a><br>
 <a href="https://repo.msys2.org/msys/x86_64/libzstd-1.4.7-1-x86_64.pkg.tar.xz">https://repo.msys2.org/msys/x86_64/libzstd-1.4.7-1-x86_64.pkg.tar.xz</a><br>
 b. <a href="https://packages.msys2.org/package/libxxhash?repo=msys&#x26;variant=x86_64">libxxhash 패키지</a><br>
