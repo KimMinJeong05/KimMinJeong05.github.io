@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/window",
+    "result": {"pageContext":{"currentCategory":"window","categories":["All","window","git","Unity","Error","알고리즘","이론"],"edges":[{"node":{"id":"6c694ee9-bb7b-5ff3-bc9b-c47834b7ac1f","excerpt":"window에 rsync 설치하는 방법 window에서 git bash에 rsync 설치 Rsync란? 원격으로 파일과 디렉토리를 동기화하기 위해 사용하는 툴이다. 나는 로컬에서 개발한 후 서버에 배포할 때 Rsync를 사용하려 했다. window에는 Rsync가 설치되어있지 않아 git bash에 직접 설치해야하는 상황이었다.\r\n하지만 window git bash에 Rsync를 설치하는 건 그리 간단하지 않았다. Window git bash에서 Rsync 사용하기 전제 조건으로 Git 버전 2.28.0 이상이어야 한다. 사용법 window Git과 호환되는 rsync 패키지 다운로드하기 https://repo.msys2.org/msys/x86_64/rsync-3.2.3-1-x86_64.pkg.tar.zst 다운로드한다. rsync 패키지 압축해제하기 1에서 다운로드한 패키지는 ZStandard 압축 알고리즘을 사용한다. rsync 패키지를 압축해제하려면 zstd를 사용해야한다. …","fields":{"slug":"/window/window_rsync/"},"frontmatter":{"categories":"window git","title":"window에 rsync 설치하는 방법","date":"February 09, 2022"}},"next":{"fields":{"slug":"/unity/install-error/"}},"previous":null}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
