@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Unity 설치 에러","categories":"Unity Error"},"fields":{"slug":"/unity-install/"}}},{"node":{"frontmatter":{"title":"그리디 알고리즘 이론","categories":"알고리즘 이론"},"fields":{"slug":"/greedy-algorithm/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Unity 설치 에러","categories":"Unity Error"},"fields":{"slug":"/unity/install-error/"}}},{"node":{"frontmatter":{"title":"그리디 알고리즘 이론","categories":"알고리즘 이론"},"fields":{"slug":"/algorithm/greedy/"}}}]}}}
