@@ -1,6 +1,6 @@
 ---
 emoji: 😈
-title: \[Unity\] 설치 에러
+title: "[Unity] 설치 에러"
 date: '2022-02-06 22:00:00'
 author: Julie
 tags: Unity 유니티 Error 에러 설치

@@ -1,6 +1,6 @@
 ---
 emoji: ⚙ 
-title: \[Git\] 특정 계정으로 설정 or commit 하기
+title: "[Git] 특정 계정으로 설정 or commit 하기"
 date: '2022-04-21 17:41:00'
 author: Julie
 tags: git commit 특정 계정 공용 서버
