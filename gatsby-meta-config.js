@@ -1,7 +1,7 @@
 module.exports = {
-  title: `Julie.com`,
+  title: `Julie's blog`,
   description: `Julie의 개발일지`,
-  language: `ko`, 
+  language: `ko`,
   siteUrl: `https://kimminjeong05.github.io/`,
   ogImage: `/myEmoji.png`, // Path to your in the 'static' folder
   comments: {
@@ -18,8 +18,8 @@ module.exports = {
       thumbnail: 'myEmoji.png', // Path to the image in the 'asset' folder -> gif로 가능
     },
     social: {
-      github: `https://github.com/KimMinJeong05`, 
-      linkedIn: `https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-491652227/`, 
+      github: `https://github.com/KimMinJeong05`,
+      linkedIn: `https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-491652227/`,
       email: `minjeong.kim512@gmail.com`,
     },
   },
